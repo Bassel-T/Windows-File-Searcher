@@ -1,0 +1,3 @@
+# Windows File Searcher
+
+Windows file searching is miserable. Any user is supposed to be able to type in "content:[string]" in the search bar to find all files that contain the input. When that proved to be useless to me, I took it upon myself to program a file searcher. Simply run the program, tell it the query, the location, whether or not you want to search sub-directories, and whether or not it's case-sensitive. Once it's run, the program will output a list of all files containing the string. If desired, it will output them to a file as well.
